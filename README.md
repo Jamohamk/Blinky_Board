@@ -4,6 +4,8 @@ BOM: Since this is a kit project i dont need to do a very long BOM
 Photos of Blinky Board:
 SCHEMATIC: <img width="509" height="372" alt="Screenshot 2026-05-08 232446" src="https://github.com/user-attachments/assets/8d1b050d-371c-4d5d-a48f-d69d417f6d8a" />
 PCB: <img width="421" height="352" alt="Screenshot 2026-05-09 005331" src="https://github.com/user-attachments/assets/f55a9e8a-b90e-4642-b9e0-c33f9a4a583f" />
+WHY:
+So ive only used kicad once before this and i want to be able to build pcb's so i thought this would be helpful. And ive never worked with LEDs so i think that is exciting.
 QUICK NOTE FOR PERSON CREATING THIS:
 1. so the files that end with sch and pcb DO NOT USE those are deprecated
 2. BackPlate_BlinkyBoard is the plate that i want the parts for the PCB on KIcad ignored it for some reason when exporting so i recreated it in fusion ill also include a screenshot for reference
